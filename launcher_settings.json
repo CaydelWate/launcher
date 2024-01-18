@@ -6,15 +6,15 @@
   },
   "news": {
     "news1": {
-      "image_link": "http://your-image-link1.com",
+      "image_link": "https://raw.githubusercontent.com/CaydelWate/launcher/main/news1.jpg",
       "click_link": "http://your-click-link1.com"
     },
     "news2": {
-      "image_link": "http://your-image-link2.com",
+      "image_link": "https://raw.githubusercontent.com/CaydelWate/launcher/main/news2.jpg",
       "click_link": "http://your-click-link2.com"
     },
     "news3": {
-      "image_link": "http://your-image-link3.com",
+      "image_link": "https://raw.githubusercontent.com/CaydelWate/launcher/main/news3.jpg",
       "click_link": "http://your-click-link3.com"
     }
   }

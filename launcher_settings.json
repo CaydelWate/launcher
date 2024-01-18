@@ -3,5 +3,19 @@
     "forum": "http://your-forum-url.com",
     "discord": "http://your-discord-url.com",
     "facebook": "http://your-facebook-url.com"
+  },
+  "news": {
+    "news1": {
+      "image_link": "http://your-image-link1.com",
+      "click_link": "http://your-click-link1.com"
+    },
+    "news2": {
+      "image_link": "http://your-image-link2.com",
+      "click_link": "http://your-click-link2.com"
+    },
+    "news3": {
+      "image_link": "http://your-image-link3.com",
+      "click_link": "http://your-click-link3.com"
+    }
   }
 }

@@ -3,37 +3,37 @@
     {
       "name": "ENBSeries_License.txt",
       "hash": "fb43b3a8363821a9a931cb1fd0b78544",
-      "path": "dadr\\ENBSeries_License.txt"
+      "path": "dadr/ENBSeries_License.txt"
     },
     {
       "name": "GFXHack.ulib",
       "hash": "7d6fce9e20730993332564a8b33a6f0f",
-      "path": "dadr\\GFXHack.ulib"
+      "path": "dadr/GFXHack.ulib"
     },
     {
       "name": "GGMM.exe",
       "hash": "bdfcd88d6e645b6a3c3ee1089c423f86",
-      "path": "dadr\\GGMM.exe"
+      "path": "dadr/GGMM.exe"
     },
     {
       "name": "GTACriminalRussiaLogo.png",
       "hash": "ca13b12dc4c555904f309ac3d5a36720",
-      "path": "files\\GTACriminalRussiaLogo.png"
+      "path": "files/GTACriminalRussiaLogo.png"
     },
     {
       "name": "GTAINTERFACE.dll",
       "hash": "39c75ed7b32f6588ce5cb7a7d1544372",
-      "path": "files\\GTAINTERFACE.dll"
+      "path": "files/GTAINTERFACE.dll"
     },
     {
       "name": "gta_sa.exe",
       "hash": "92a33ee59e6b39af1962efe4bbee94c9",
-      "path": "files\\gta_sa.exe"
+      "path": "files/gta_sa.exe"
     },
     {
       "name": "InterfaceEditor.ini",
       "hash": "c19219d953eb43fb9b8ac442d8b3ec2c",
-      "path": "files\\InterfaceEditor.ini"
+      "path": "files/InterfaceEditor.ini"
     },
     {
       "name": "gta_int.img",

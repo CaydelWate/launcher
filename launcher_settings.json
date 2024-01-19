@@ -17,5 +17,9 @@
       "image_link": "https://raw.githubusercontent.com/CaydelWate/launcher/main/news/news3.jpg",
       "click_link": "http://your-click-link3.com"
     }
+  },
+  "server": {
+    "ip": "your-server-ip",
+    "port": 12345
   }
 }

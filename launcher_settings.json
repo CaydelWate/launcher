@@ -23,6 +23,6 @@
     "port": "7777"
   },
   "game_archive": "http://your-game-archive-url.com",
-  "game_files_json": "http://raw.githubusercontent.com/CaydelWate/launcher/main/game_files.json",
-  "game_files": "http://raw.githubusercontent.com/CaydelWate/launcher/main/game_files"
+  "game_files_json": "https://raw.githubusercontent.com/CaydelWate/launcher/main/game_files.json",
+  "game_files": "https://raw.githubusercontent.com/CaydelWate/launcher/main/game_files"
 }

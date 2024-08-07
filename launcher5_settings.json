@@ -2,12 +2,10 @@
   "version": "1.0.1",
    "update_link": "https://raw.githubusercontent.com/CaydelWate/launcher/main/app",
   "links": {
-    "forum": "http://your-forum-url.com",
-    "discord": "http://your-discord-url.com",
+    "discord": "https://discord.gg/2MmEPcmN3E",
     "vk": "http://your-vk-url.com",
-    "telegram": "http://your-tg-url.com",
-    "web": "http://your-web-url.com",
-    "facebook": "http://your-facebook-url.com"
+    "telegram": "https://t.me/EndlessPrim",
+    "web": "http://your-web-url.com"
   },
   "news": {
     "news1": {

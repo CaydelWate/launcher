@@ -4,6 +4,9 @@
   "links": {
     "forum": "http://your-forum-url.com",
     "discord": "http://your-discord-url.com",
+    "vk": "http://your-vk-url.com",
+    "telegram": "http://your-tg-url.com",
+    "web": "http://your-web-url.com",
     "facebook": "http://your-facebook-url.com"
   },
   "news": {

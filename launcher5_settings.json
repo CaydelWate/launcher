@@ -1,0 +1,30 @@
+ {
+  "version": "1.0.1",
+   "update_link": "https://raw.githubusercontent.com/CaydelWate/launcher/main/app",
+  "links": {
+    "forum": "http://your-forum-url.com",
+    "discord": "http://your-discord-url.com",
+    "facebook": "http://your-facebook-url.com"
+  },
+  "news": {
+    "news1": {
+      "image_link": "https://raw.githubusercontent.com/CaydelWate/launcher/main/news/news1.jpg",
+      "click_link": "http://your-click-link1.com"
+    },
+    "news2": {
+      "image_link": "https://raw.githubusercontent.com/CaydelWate/launcher/main/news/news2.jpg",
+      "click_link": "http://your-click-link2.com"
+    },
+    "news3": {
+      "image_link": "https://raw.githubusercontent.com/CaydelWate/launcher/main/news/news3.jpg",
+      "click_link": "http://your-click-link3.com"
+    }
+  },
+  "server": {
+    "ip": "193.84.90.19",
+    "port": "7777"
+  },
+  "game_archive": "http://your-game-archive-url.com",
+  "game_files_json": "https://raw.githubusercontent.com/CaydelWate/launcher/main/game_files.json",
+  "game_files": "https://raw.githubusercontent.com/CaydelWate/launcher/main/game_files"
+}

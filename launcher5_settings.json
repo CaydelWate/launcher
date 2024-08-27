@@ -1,6 +1,6 @@
  {
-  "version": "0.0.2",
-   "update_link": "https://www.dropbox.com/scl/fi/ow1pe1urzhoe4368t14j9/app?rlkey=zn2df0deb4swdxtqtx4iyqk9m&st=zxey4vra&dl=1",
+  "version": "0.0.3",
+   "update_link": "https://www.dropbox.com/scl/fi/rwfifncxmdteigmmk71ms/app?rlkey=2gb52d5btlj2tvl6wz3wz61qg&st=lanj0h11&dl=1",
   "links": {
     "discord": "https://discord.gg/2MmEPcmN3E",
     "vk": "http://your-vk-url.com",
@@ -29,7 +29,5 @@
     "ip": "193.84.90.19",
     "port": "7777"
   },
-  "game_archive": "https://www.dropbox.com/scl/fi/zhkbagdhjrqdv7xrgo4oo/ragemp.zip?rlkey=xl3gz0f6t8btzluvzowe9gwz8&st=3ebydogd&dl=1",
-  "game_files_json": "https://raw.githubusercontent.com/CaydelWate/launcher/main/game_files.json",
-  "game_files": "https://raw.githubusercontent.com/CaydelWate/launcher/main/game_files"
+  "game_archive": "https://www.dropbox.com/scl/fi/zhkbagdhjrqdv7xrgo4oo/ragemp.zip?rlkey=xl3gz0f6t8btzluvzowe9gwz8&st=3ebydogd&dl=1"
 }
